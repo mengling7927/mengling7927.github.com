@@ -1,37 +1,10 @@
 ## Welcome to My Blog
 
-You can use the [editor on GitHub](https://github.com/mengling7927/mengling7927.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我是MengLing_7927，这是我的私人博客，会记录一些让我觉得值得记录之事。其中的内容可能非常主观，仅代表个人观点。
+由于数据丢失，本页面于2021年8月重建，内容来自Twitter和日记备份。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2021
 
-### Markdown
+### 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mengling7927/mengling7927.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### SteamURL:https://steamcommunity.com/id/MengLing_7927/
