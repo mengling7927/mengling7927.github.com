@@ -10,5 +10,5 @@
 ### 2020
 
 <a href="/2020/7-4.html">7-4离校了，以后或许会写些什么吧？</a> <br />
-### SteamURL:https://steamcommunity.com/id/MengLing_7927/
-<a href="https://steamcommunity.com/id/MengLing_7927/">SteamURL</a> <br />
+<br />
+### <a href="https://steamcommunity.com/id/MengLing_7927/">SteamURL</a> <br />
