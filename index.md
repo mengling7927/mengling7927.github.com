@@ -9,4 +9,5 @@
 <a href="/2021/8-11.html">8-11人类能拒绝基因改造吗？人类的未来又将何去何从？</a> <br />
 ### 2020
 
+<a href="/2020/7-4.html">离校了，以后或许会写些什么吧？</a> <br />
 ### SteamURL:https://steamcommunity.com/id/MengLing_7927/
