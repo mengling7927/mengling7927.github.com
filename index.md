@@ -27,5 +27,6 @@
 <a href="/2020/7-6.html">7-6明天要高考了</a> <br />
 <a href="/2020/7-4.html">7-4离校了，以后或许会写些什么吧？</a> <br />
 <br />
-### <a href="https://steamcommunity.com/id/MengLing_7927/">SteamURL</a> <br />
+### 联系方式<br />
+<a href="https://steamcommunity.com/id/MengLing_7927/">SteamURL</a> <br />
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=CtuCs-5JzmFKDPO6Vb4A08t1PVy0Xusb&noverify=0">QQ:1975516921</a><br />
