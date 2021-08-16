@@ -9,6 +9,7 @@
 <a href="/2021/8-11.html">8-11人类能拒绝基因改造吗？人类的未来又将何去何从？</a> <br />
 ### 2020
 
+<a href="/2020/7-6.html">7-6明天要高考了</a> <br />
 <a href="/2020/7-4.html">7-4离校了，以后或许会写些什么吧？</a> <br />
 <br />
 ### <a href="https://steamcommunity.com/id/MengLing_7927/">SteamURL</a> <br />
