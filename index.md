@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="Images/blog.ico">
 ## MengLing_7927的私人博客
 
 欢迎访问mengling7927.github.io，这是我的私人博客，会记录一些让我觉得值得记录之事。其中的内容可能非常主观，仅代表个人观点。<br />
